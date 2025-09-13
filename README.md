@@ -1,0 +1,1 @@
+A common case in Rust is when you have a structure with many optional fields, and you don't want to force the use of a huge struct with Option<T> everywhere. This is where the Builder Pattern comes in.
